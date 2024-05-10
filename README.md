@@ -1,2 +1,4 @@
 # JKTicraTestGit
-Repo for learning to use SmartGit
+Repo for learning to use SmartGit.
+
+First new line made in VS-code.
