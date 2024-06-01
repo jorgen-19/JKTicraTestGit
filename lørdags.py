@@ -1,0 +1,1 @@
+print("Idag er det lørdag")
