@@ -1,3 +1,3 @@
 program jkFortran
   print *, 'Jørgen was here'
-program end jkFortran
+end program jkFortran
