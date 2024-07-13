@@ -1,3 +1,5 @@
+! programmet viser hvordan man importere moduler vha. kommandoen use.
+! use skal komme lige efter program kommandoen.
 program print_compiler_info
     use iso_fortran_env
     implicit none
